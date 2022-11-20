@@ -154,9 +154,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   generatedSeed: 0
   generatedHash: 0
-  maxRooms: 10
-  minRooms: 5
-  minRequiredRooms: 0
+  maxRooms: 20
+  minRooms: 10
+  minRequiredRooms: 5
   themes: 1
 --- !u!4 &97644191
 Transform:
